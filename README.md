@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Vitor Viana, tenho 18 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciência da Computação na UNITPE.
+### 🎓 Acadêmico de Ciência da Computação na UNITPE | 🌵 Natural de Pernambuco
+
+Tenho 18 anos e estou mergulhado no universo da tecnologia. Combinando a base teórica da faculdade com a prática intensa do ecossistema **Full Stack**, busco construir soluções Web que sejam elegantes, rápidas e acessíveis.
 
 ---
 
@@ -43,10 +45,25 @@ Me chamo João Vitor Viana, tenho 18 anos e sou natural de Pernambuco. Atualment
 
 <img 
     align="left" 
+    alt="Reac"
+    title="Reac" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+
+<img
+    align="left" 
+    alt="MY SQL"
+    title="MY SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
