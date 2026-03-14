@@ -43,3 +43,8 @@ Tenho 18 anos e estou mergulhado no universo da tecnologia. Combinando a base te
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br> <br>
+
+# 📊 GitHub Stats:
+
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=jvvianaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
